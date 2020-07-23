@@ -27,8 +27,9 @@ ls
 chmod +x *
 
 python2 fb-hack.py
+
 ........20.py
 
-Shabir
+                           Shabir
 
-Baloch
+                            Baloch
