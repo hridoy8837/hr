@@ -9,6 +9,8 @@ pkg install python
  
   pkg install python2
   
+  pkg install python3
+  
 pkg install git -y
 
 pip2 install mechanize
