@@ -16,8 +16,11 @@ pip2 install mechanize
 pip2 install requests
 
 
-git clone https://github.com/hridoy8837/hr.git
 
+git clone https://github.com/hridoy8837/hr.git
+                                                              •pip3 install requests bs4
+                                                                •pip install mechanize
+                                                                  •python3 fb.py or python fb2.py
 ls
 
 Cd hr
