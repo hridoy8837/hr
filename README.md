@@ -30,13 +30,16 @@ ls
 Cd hr
 
 ls
-                     1/     bash install.sh
 chmod +x *
-
+                      
+                      
+                        1/    bash install.sh
+                
                       2/     python2 fb-hack.py
                       
                       3/    phthon3 fb.py
-
+                       
+                       4/   bash zphisher.sh
 ........20.py
 
                            Shabir
