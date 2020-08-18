@@ -40,6 +40,8 @@ chmod +x *
                       3/    phthon3 fb.py
                        
                        4/   bash zphisher.sh
+                       
+                       5/    python firecrack.py
 ........20.py
 
                            Shabir
