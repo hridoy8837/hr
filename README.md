@@ -30,10 +30,12 @@ ls
 Cd hr
 
 ls
-
+                     1/     bash install.sh
 chmod +x *
 
-python2 fb-hack.py
+                      2/     python2 fb-hack.py
+                      
+                      3/    
 
 ........20.py
 
