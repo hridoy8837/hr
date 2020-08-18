@@ -35,7 +35,7 @@ chmod +x *
 
                       2/     python2 fb-hack.py
                       
-                      3/    
+                      3/    phthon3 fb.py
 
 ........20.py
 
